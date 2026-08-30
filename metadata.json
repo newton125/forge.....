@@ -1,0 +1,6 @@
+{
+  "name": "FORGE - Industrial Hardware Marketplace",
+  "description": "Production-ready industrial hardware e-commerce marketplace and admin management platform with precision equipment, power tools, safety gear, and enterprise procurement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
